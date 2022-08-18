@@ -1,2 +1,2 @@
 # Lego_Analysis
-# INSPIRED BY https://www.udemy.com/course/the-python-pro-course/
+# INSPIRED BY https://www.udemy.com/course/100-days-of-code/
